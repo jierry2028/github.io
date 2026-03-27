@@ -12,8 +12,8 @@
 |------|------|----------|----------|
 | 🔥  
 | ⚡ | 镜像仓库 | [进入](https://codeberg.org/Jsnzkpg/Jsnzkpg) | - |
-| ✈️ | TG频道 | [进入](https://t.me/stymei1) | - |
-| ✈️ | TG群聊 | [进入](https://t.me/+j664EmVv8m0wZGVk) | - |
+| ✈️ | TG频道 | [进入](https://t.me/Eternity2099) | - |
+| ✈️ | 个人收集 | [进入](https://link3.cc/jk2025) | - |
 | 🔖 | 书签收藏 | [进入](https://Jsnzkpg.github.io) | - |
 | 🚀 | 共享火箭 | [进入](https://stymei.github.io) | - |
 | 🐈‍⬛ | Github加速 | [进入](https://pyapk.github.io) | - |
